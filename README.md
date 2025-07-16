@@ -16,13 +16,6 @@ A dynamic and responsive sales analytics dashboard built with **Next.js 15**, **
 
 ---
 
-## 🖼️ Screenshots
-
-| Dashboard View | Chart Switcher |
-|----------------|----------------|
-| ![Dashboard](./public/screenshot1.png) | ![Switcher](./public/screenshot2.png) |
-
----
 
 ## 🛠️ Tech Stack
 
